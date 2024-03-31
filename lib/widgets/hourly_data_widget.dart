@@ -48,7 +48,7 @@ class HourlyDataWidget extends StatelessWidget {
               },
               child: Container(
                 width: 90,
-                margin: const EdgeInsets.only(left: 20, right: 5),
+                margin: const EdgeInsets.only(left: 5, right: 5),
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(12),
                     boxShadow: [
